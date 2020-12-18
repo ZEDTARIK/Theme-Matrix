@@ -86,8 +86,6 @@ html .fc, .fc table {
     background: url("../img/rarrow.png") no-repeat scroll 15px 13px transparent;
     width: 10px;
 }
-.fc-content {
-}
 .fc-view {
     overflow: hidden;
     width: 100%;
